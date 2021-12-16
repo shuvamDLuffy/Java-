@@ -25,7 +25,7 @@ class ThreeConstructors{
  
  
 # Write a program to implement stack using array
-'''
+```
 public class Stack<E> {
 	private E[] arr = null;
 	private int CAP;
@@ -96,12 +96,12 @@ public class Stack<E> {
 		System.out.println(stack);
 	}
 }
-'''
+```
  
  
 # Write a program to implement uses of Abstract Class .
  
-'''
+```
 package com.java.abstractTest.example;
  
 abstract class Shape
@@ -153,12 +153,12 @@ public class AbstractTest
   + shape.area());
  }
 }
-'''
+```
  
  
 # Write a program to achieve multiple inheritance in java
  
- '''
+```
  package inheritance;
  interface Writeable
 {
@@ -299,8 +299,9 @@ class FinalKeyword
  
  
 # Write a program to demonstrate the use of default method in the interface.
+
 ```
-// methods in java
+
 interface TestInterface
 {
     // abstract method
